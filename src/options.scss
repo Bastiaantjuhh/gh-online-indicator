@@ -1,0 +1,91 @@
+/*! 
+ * Copyright (c) Bastiaan de Hart.
+ * Licensed under MIT license
+ */
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #ffffff;
+    width: 400px;
+    padding: 10px;
+    overflow: hidden;
+}
+
+h1 {
+    font-size: 22px;
+    text-align: center;
+    color: #434343;
+}
+
+span, p {
+    color: #434343;
+}
+
+label {
+    display: block;
+    font-weight: bold;
+    margin-top: 15px;
+    margin-bottom: 4px;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    border: 1px solid #434343;
+    border-radius: 4px;
+    font-size: 1em;
+    margin: 2px;
+    box-sizing: border-box;
+}
+
+#btn {
+
+    &_container {
+        display: flex;
+        gap: 10px;
+        margin-top: 10px;
+
+        button {
+            width: 100%;
+            padding: 10px;
+            margin-top: 20px;
+            border-radius: 5px;
+            font-size: 16px;
+            cursor: pointer;
+        }        
+    }
+
+    &_save {
+        border: 2px solid #009f4d;
+        background-color: #009f4d;
+        color: #ffffff;
+
+        &:hover {
+            border: 2px solid #33B271;
+            background-color: #33B271;
+        }
+    }
+
+    &_token {
+        border: 2px solid #000000;
+        background-color: #000000;
+        color: #ffffff;
+
+        &:hover {
+            border: 2px solid #423836;
+            background-color: #423836;
+        }
+    }
+
+    &_sourcecode {
+        border: 2px solid #000000;
+        background-color: #000000;
+        color: #ffffff;
+
+        &:hover {
+            border: 2px solid #423836;
+            background-color: #423836;
+        }
+    }
+}

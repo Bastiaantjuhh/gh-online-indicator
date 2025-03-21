@@ -1,0 +1,41 @@
+{
+    "lang_code": {
+        "message": "nl"
+    },
+    "lang_name": {
+        "message": "Dutch"
+    },
+    "extension_name": {
+        "message": "GitHub Online Indicator"
+    },
+    "extension_description": {
+        "message": "Monitort of GitHub open is en stuurt statusupdates."
+    },
+    "settings_title": {
+        "message": "Instellingen"
+    },
+    "settings_description": {
+        "message": "Voor het gebruik van deze extensie moet je een Fine-Grained Personal Access Token aanmaken op GitHub, deze heeft de rechten voor Profiel nodig."
+    },
+    "api_key_label": {
+        "message": "API Sleutel"
+    },
+    "status_online_label": {
+        "message": "Online status"
+    },
+    "status_offline_label": {
+        "message": "Offline status"
+    },
+    "button_save": {
+        "message": "Opslaan"
+    },
+    "button_token": {
+        "message": "Sleutel"
+    },
+    "button_source_code": {
+        "message": "Broncode"
+    },
+    "api_key_saved": {
+        "message": "API Sleutel opgeslagen!"
+    }
+}

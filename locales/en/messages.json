@@ -1,0 +1,41 @@
+{
+    "lang_code": {
+        "message": "en"
+    },
+    "lang_name": {
+        "message": "English"
+    },
+    "extension_name": {
+        "message": "GitHub Online Indicator"
+    },
+    "extension_description": {
+        "message": "Monitors if GitHub is open and sends status updates."
+    },
+    "settings_title": {
+        "message": "Settings"
+    },
+    "settings_description": {
+        "message": "To use this extension, you need to create a Fine-Grained Personal Access Token on GitHub. This need the permissions for Profile"
+    },
+    "api_key_label": {
+        "message": "API Key"
+    },
+    "status_online_label": {
+        "message": "Online status"
+    },
+    "status_offline_label": {
+        "message": "Offline status"
+    },
+    "button_save": {
+        "message": "Save"
+    },
+    "button_token": {
+        "message": "Token"
+    },
+    "button_source_code": {
+        "message": "Source code"
+    },
+    "api_key_saved": {
+        "message": "API Key saved!"
+    }
+}
