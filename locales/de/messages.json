@@ -1,0 +1,41 @@
+{
+    "lang_code": {
+        "message": "de"
+    },
+    "lang_name": {
+        "message": "Deutsch"
+    },
+    "extension_name": {
+        "message": "GitHub Online-Anzeige"
+    },
+    "extension_description": {
+        "message": "Überwacht, ob GitHub geöffnet ist, und sendet Statusaktualisierungen."
+    },
+    "settings_title": {
+        "message": "Einstellungen"
+    },
+    "settings_description": {
+        "message": "Um diese Erweiterung zu nutzen, müssen Sie ein Fine-Grained Personal Access Token auf GitHub erstellen. Dieses benötigt die Berechtigungen für das Profil."
+    },
+    "api_key_label": {
+        "message": "API-Schlüssel"
+    },
+    "status_online_label": {
+        "message": "Online-Status"
+    },
+    "status_offline_label": {
+        "message": "Offline-Status"
+    },
+    "button_save": {
+        "message": "Speichern"
+    },
+    "button_token": {
+        "message": "Token"
+    },
+    "button_source_code": {
+        "message": "Quellcode"
+    },
+    "api_key_saved": {
+        "message": "API-Schlüssel gespeichert!"
+    }
+}
